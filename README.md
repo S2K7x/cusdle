@@ -1,4 +1,3 @@
-```markdown
 # cuslde.py - A Powerful Wordlist Generator Tool
 
 ## Overview
